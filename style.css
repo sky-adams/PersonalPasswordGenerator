@@ -1,0 +1,7 @@
+#title {
+   -fx-font-size: 32px;
+}
+
+#subtitle {
+	-fx-wrap-text: true;
+}
